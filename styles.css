@@ -1,5 +1,6 @@
 /* Apply styles to the holder element */
-#holder {
+/* Apply styles to the holder element */
+.holder {
   display: flex; /* Enable flexbox layout */
   justify-content: center; /* Center items horizontally */
   align-items: center; /* Center items vertically */
@@ -9,7 +10,7 @@
 }
 
 /* Apply styles to item-1 */
-#item-1 {
+.item-1 {
   width: 100px; /* Set width to 100px */
   height: 100px; /* Set height to 100px */
   background-color: red; /* Red background color */
